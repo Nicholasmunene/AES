@@ -1,4 +1,4 @@
 # AES
 Simple implementation of AES cipher algorithm
 
-'yarn install'
+`nmp init -y`
