@@ -3,7 +3,7 @@ Simple implementation of AES cipher algorithm
 We’ll create a Node.js project to work with crypto. You’ll learn how to encrypt and decrypt data.
 
 ---
-#👌Install crypto module
+**👌Install crypto module**
 
 `npm init -y`
 *
