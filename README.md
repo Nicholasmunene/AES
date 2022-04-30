@@ -4,7 +4,7 @@ We’ll create a Node.js project to work with crypto. You’ll learn how to encr
 
 ---
 #👌 Usage
-*Install crypto module
+###Install crypto module
 
 `npm init -y`
 *
